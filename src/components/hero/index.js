@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Hero = ({ image, displayText }) => {
-  const type = ''
+  const type = '';
 
   return (
     <div
