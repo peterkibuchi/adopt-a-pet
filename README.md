@@ -1,6 +1,6 @@
 # Adopt A Pet
 > A pet adoption website that allows users to view all the adoptable pets of a particular species and view the profiles of specific adoptable pets.
-> Live demo [_here_](https://peterkibuchi.github.io/adopt-a-pet/).
+<!-- > Live demo [_here_](https://peterkibuchi.github.io/adopt-a-pet/). -->
 
 ## Table of Contents
 * [General Info](#general-information)
